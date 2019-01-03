@@ -1,5 +1,5 @@
 # flask-cnode-bbs
-高仿cnode论坛，基于flask实现的个人论坛
+## 高仿cnode论坛，基于flask实现的个人论坛
 
 * 论坛实现了用户注册、登陆、上传头像、收发邮件、发表文章、评论、私信等功能
 * 使用MongoDB存储数据并实现相应的ORM
