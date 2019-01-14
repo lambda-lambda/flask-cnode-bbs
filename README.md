@@ -8,4 +8,5 @@
 * 利用jinja2模板实现网页模板，解耦页面与业务逻辑，提高代码重用度
 * 使用Nginx反向代理，处理静态文件，同时配合gunicorn实现多进程的负载均衡
 * 利用Python uuid模块生成随机数防范CSRF攻击
+* 在博客内容和评论中是实现markdown和语法高亮。
 ![image](https://github.com/lambda-lambda/flask-cnode-bbs/blob/master/flask-bbs.gif)
